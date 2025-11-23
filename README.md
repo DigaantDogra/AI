@@ -28,3 +28,5 @@ Feature Importance: Shell_weight proved to be the most critical predictor of age
 
 Limitations: The model's performance plateaus around an R^2 of 0.58. 
 This suggests inherent limitations in the dataset, specifically a skewed distribution favoring younger specimens and significant noise in the physical traits of older abalone.
+
+Youtube - https://youtu.be/R_iV61XkiSc
